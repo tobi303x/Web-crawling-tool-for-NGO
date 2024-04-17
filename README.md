@@ -1,6 +1,6 @@
-# Web-crawling-tool-for-NGO
+# Web crawling tool for NGO
 
-This project is a web crawling tool specifically designed for Non-Governmental Organizations ([NGOs](https://fundusze.ngo.pl/aktualne)). It aims to automate the process of gathering relevant data and scheduling data extractions in order to keeping users up to date with newest oportunities.
+This project is a web crawling tool specifically designed for Non-Governmental Organizations ([NGO](https://fundusze.ngo.pl/aktualne)). It aims to automate the process of gathering relevant data and scheduling data extractions in order to keeping users up to date with newest oportunities.
 
 [![Video](https://img.youtube.com/vi/VddchMtT9Aw/maxresdefault.jpg)](https://www.youtube.com/watch?v=VddchMtT9Aw)
 
@@ -18,4 +18,4 @@ Future enhancements to this tool may include:
 - **Scheduling Extractions**: Implementing cron jobs or using [Scrapyd](https://scrapyd.readthedocs.io/en/stable/) to schedule data extraction tasks.
 - **Email Notifications**: Sending the newest notifications via email to keep users updated with the latest information.
 - **Improved Data Extraction Accuracy**: To ensure the quality of the data collected.
-- - **Advanced Data Analysis Features**: To provide more in-depth insights from the collected data.
+- **Advanced Data Analysis Features**: To provide more in-depth insights from the collected data.
