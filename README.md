@@ -1,5 +1,5 @@
 # Web crawling tool for NGO
-This project is a web crawling tool specifically designed for Non-Governmental Organizations (NGO). It aims to automate the process of gathering relevant data from various online sources and scheduling data extractions. This ensures that users are kept up-to-date with the newest opportunities.
+This project is a web crawling tool specifically designed for Non-Governmental Organizations ([NGO](https://fundusze.ngo.pl/aktualne)). It aims to automate the process of gathering relevant data from various online sources and scheduling data extractions. This ensures that users are kept up-to-date with the newest opportunities.
 
 [![Video](https://img.youtube.com/vi/VddchMtT9Aw/maxresdefault.jpg)](https://www.youtube.com/watch?v=VddchMtT9Aw)
 
